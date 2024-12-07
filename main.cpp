@@ -3,6 +3,9 @@
 #include <fstream>
 #include <sstream>
 
+// Tool Finds Out If The Name Provided Was At The Diddy Party!!!
+// I was bored as FUCK when I made this
+
 struct File {
     std::vector<std::string> content;
 };
